@@ -2,6 +2,19 @@
 
 an opinionated Express v4 + MongoDB starter
 
+## work in progress
+
+This project is not complete. Take a look, and come back a bit later ;-)
+
+## working end-points
+
+This list is subject to change at a later date.
+
+```text
+http://localhost:3000/
+http://localhost:3000/file-content
+```
+
 ---
 
 ## license
