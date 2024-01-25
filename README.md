@@ -4,7 +4,7 @@ an opinionated Express v4 + MongoDB starter
 
 ## work in progress
 
-This project is not complete. Take a look, and come back a bit later ;-)
+**WIP!** This project is not complete. Take a look, and come back a bit later ;-)
 
 ## working end-points
 
